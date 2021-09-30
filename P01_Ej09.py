@@ -1,5 +1,7 @@
 from turtle import *
 
+print('comemeelamingaaabolingaaaaaa')
+
 turt = Turtle()
 
 lado = int(input('Introduce el lado del triangulo perro de mierda: '))
