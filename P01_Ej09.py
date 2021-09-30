@@ -2,7 +2,7 @@ from turtle import *
 
 turt = Turtle()
 
-lado = int(input('Introduce el lado del triangulo: '))
+lado = int(input('Introduce el lado del triangulo perro de mierda: '))
 
 altura = 3**0.5/2*lado
 print(altura)
